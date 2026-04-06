@@ -1,0 +1,7 @@
+--- mov: register sizes ---
+Loading rax with 64-bit immediate
+Loading eax (clears upper 32 bits of rax)
+Loading ax (preserves upper bits)
+Loading al (preserves upper bits)
+Register-to-register: mov rbx, rax
+--- done ---
