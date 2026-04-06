@@ -28,7 +28,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. O estudante pode escrever um programa em NASM que usa mov, add, sub, imul e idiv em registradores de larguras diferentes (rax/eax/ax/al) e produz saída verificável
   3. O estudante pode implementar branching (cmp + jcc) e loops com contador em registrador, produzindo saída que valida o fluxo correto
   4. O estudante pode acessar variáveis em .data e .bss e iterar sobre um array em memória usando endereçamento indexado [reg + N*const]
-**Plans**: TBD
+**Plans:** 4 plans
+Plans:
+- [ ] 01-01-PLAN.md — Foundation: toolchain setup, lib/print_uint64 helper, root Makefile, asm-01-mov exercise
+- [ ] 01-02-PLAN.md — Registers and flow control: asm-02-arithmetic, asm-03-conditionals, asm-04-loop
+- [ ] 01-03-PLAN.md — Memory exercises: asm-05-data-bss, asm-06-addressing, asm-07-array-iteration
+- [ ] 01-04-PLAN.md — Integration: root Makefile finalization, full suite verification, human checkpoint
 
 ### Phase 2: Assembly Stack and Functions
 **Goal**: O estudante pode escrever funções assembly ABI-compliant — com stack frame correto, preservação de registradores callee-saved e passagem de parâmetros via System V AMD64 ABI
@@ -69,7 +74,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Toolchain and Assembly Basics | 0/? | Not started | - |
+| 1. Toolchain and Assembly Basics | 0/4 | Planning complete | - |
 | 2. Assembly Stack and Functions | 0/? | Not started | - |
 | 3. C Fundamentals | 0/? | Not started | - |
 | 4. C-Assembly Bridge | 0/? | Not started | - |
