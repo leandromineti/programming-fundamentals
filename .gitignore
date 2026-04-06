@@ -1,0 +1,7 @@
+# Build artifacts -- compiled binaries and object files
+*.o
+main
+actual.txt
+
+# GSD workflow tooling
+.claude/
