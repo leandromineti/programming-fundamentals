@@ -5,3 +5,7 @@ actual.txt
 
 # GSD workflow tooling
 .claude/
+.planning/
+
+# Project instructions (local only)
+CLAUDE.md
