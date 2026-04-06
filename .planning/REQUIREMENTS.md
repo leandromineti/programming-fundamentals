@@ -95,40 +95,40 @@ Reservado para milestones futuros.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| TOOL-01 | — | Pending |
-| TOOL-02 | — | Pending |
-| TOOL-03 | — | Pending |
-| ASM-01 | — | Pending |
-| ASM-02 | — | Pending |
-| ASM-03 | — | Pending |
-| ASM-04 | — | Pending |
-| ASM-05 | — | Pending |
-| ASM-06 | — | Pending |
-| ASM-07 | — | Pending |
-| ASM-08 | — | Pending |
-| ASM-09 | — | Pending |
-| ASM-10 | — | Pending |
-| ASM-11 | — | Pending |
-| C-01 | — | Pending |
-| C-02 | — | Pending |
-| C-03 | — | Pending |
-| C-04 | — | Pending |
-| C-05 | — | Pending |
-| C-06 | — | Pending |
-| C-07 | — | Pending |
-| C-08 | — | Pending |
-| C-09 | — | Pending |
-| C-10 | — | Pending |
-| C-11 | — | Pending |
-| BRG-01 | — | Pending |
-| BRG-02 | — | Pending |
-| BRG-03 | — | Pending |
+| TOOL-01 | Phase 1 | Pending |
+| TOOL-02 | Phase 1 | Pending |
+| TOOL-03 | Phase 1 | Pending |
+| ASM-01 | Phase 1 | Pending |
+| ASM-02 | Phase 1 | Pending |
+| ASM-03 | Phase 1 | Pending |
+| ASM-04 | Phase 1 | Pending |
+| ASM-05 | Phase 1 | Pending |
+| ASM-06 | Phase 1 | Pending |
+| ASM-07 | Phase 1 | Pending |
+| ASM-08 | Phase 2 | Pending |
+| ASM-09 | Phase 2 | Pending |
+| ASM-10 | Phase 2 | Pending |
+| ASM-11 | Phase 2 | Pending |
+| C-01 | Phase 3 | Pending |
+| C-02 | Phase 3 | Pending |
+| C-03 | Phase 3 | Pending |
+| C-04 | Phase 3 | Pending |
+| C-05 | Phase 3 | Pending |
+| C-06 | Phase 3 | Pending |
+| C-07 | Phase 3 | Pending |
+| C-08 | Phase 3 | Pending |
+| C-09 | Phase 3 | Pending |
+| C-10 | Phase 3 | Pending |
+| C-11 | Phase 3 | Pending |
+| BRG-01 | Phase 4 | Pending |
+| BRG-02 | Phase 4 | Pending |
+| BRG-03 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 28 total
-- Mapped to phases: 0
-- Unmapped: 28
+- Mapped to phases: 28
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-06*
-*Last updated: 2026-04-06 after initial definition*
+*Last updated: 2026-04-05 after roadmap creation — all 28 requirements mapped*
